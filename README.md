@@ -2,7 +2,7 @@
 
 **Lecture Notes** (Video available in [here](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn))
 
-|Date|Description|
+|Index|Lecture|
 |---|---|
 |01.|Introduction; Machine Learning for Graphs|
 |02.|Traditional Methods for ML on Graphs|
