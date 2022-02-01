@@ -1,5 +1,10 @@
 # [CS224w: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)
 
+**Implementations**
+
+* [GCN: Graph Convolution Network](./implementation/GCN.ipynb) (Thomas N. Kipf, et al. [arXiv:1609.02907 [cs.LG]](https://arxiv.org/abs/1609.02907))
+* [GAT: Graph Attention Network](./implementation/GAT.ipynb) (Petar Veličković, et al. [arXiv:1710.10903 [stat.ML]](https://arxiv.org/abs/1710.10903))
+
 **Lecture Notes** (Video available in [here](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn))
 
 | Index | Lecture                                   |  Report  |  Lab  |
